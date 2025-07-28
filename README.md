@@ -62,6 +62,3 @@ p2_image_classifier/
 
 ---
 
-## Author
-
-[NawrasFarhat](https://github.com/NawrasFarhat)
